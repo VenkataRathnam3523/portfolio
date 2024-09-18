@@ -4,8 +4,7 @@
 
 ## Fork 
 <p>Feel free to fork this repo to modify and make changes of your own. Please give me proper credit by linking it back to this repo. Thanks! 
-  <br/> 
-  The design for this project is inspired by <a href="https://github.com/soumyajit4419/Portfolio">Saumjyajit's portfolio.</a></p>
+  <br/>
 
 ## About 
 <p>This project is my personal portfolio which features some of my skills, GitHub projects and my resume.</p>
