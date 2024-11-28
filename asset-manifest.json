@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9ac2fc52.css",
-    "main.js": "/portfolio/static/js/main.f4b77211.js",
-    "static/media/Resume.pdf": "/portfolio/static/media/Resume.61c1512bb92b858a40b0.pdf",
+    "main.js": "/portfolio/static/js/main.6a4fb8bc.js",
+    "static/media/movierecom.png": "/portfolio/static/media/movierecom.eb72eb380b4786bf7326.png",
     "static/media/anime.png": "/portfolio/static/media/anime.0378d8167b2ebcb2b83c.png",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.eeef30d5ab28d06a6524.pdf",
     "static/media/digitalclock.png": "/portfolio/static/media/digitalclock.7bd31274c6e28b041059.png",
     "static/media/portfolio.png": "/portfolio/static/media/portfolio.12e58cf7a7870f59b2e0.png",
-    "static/media/password.png": "/portfolio/static/media/password.48abebd05a8804acb8fa.png",
-    "static/media/crud.png": "/portfolio/static/media/crud.26c5ac3770a6fa7b43ad.png",
+    "static/media/carrent.png": "/portfolio/static/media/carrent.a6307f2e3e579cd4a79a.png",
+    "static/media/chatapp.png": "/portfolio/static/media/chatapp.c25635d51f611f71ec63.png",
+    "static/media/weather.png": "/portfolio/static/media/weather.7b0997e0339a86ec8e7b.png",
     "static/media/notepad.png": "/portfolio/static/media/notepad.06d4f8c9faf9b2291e9e.png",
     "index.html": "/portfolio/index.html",
     "main.9ac2fc52.css.map": "/portfolio/static/css/main.9ac2fc52.css.map",
-    "main.f4b77211.js.map": "/portfolio/static/js/main.f4b77211.js.map"
+    "main.6a4fb8bc.js.map": "/portfolio/static/js/main.6a4fb8bc.js.map"
   },
   "entrypoints": [
     "static/css/main.9ac2fc52.css",
-    "static/js/main.f4b77211.js"
+    "static/js/main.6a4fb8bc.js"
   ]
 }
