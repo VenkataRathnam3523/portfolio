@@ -17,13 +17,22 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     AnimePageGithub:"https://github.com/VenkataRathnam3523/animatedpage",
     AnimePageWebsite:"https://venkatarathnam3523.github.io/animatedpage/",
     
-    PasswordDesc:"A strong password is a complex, unique combination of letters (both uppercase and lowercase), numbers, and symbols, with a length of at least 12 characters, ensuring resilience against brute force attacks.",
-    PasswordGithub:"https://github.com/VenkataRathnam3523/password",
-    PasswordWebsite:"https://github.com/VenkataRathnam3523/password",
+    CarRentDesc:"The CarRent project is a Java-based car rental system that helps manage car availability, customer bookings, and rental transactions. Its a simple solution suitable for learning backend development and implementing a basic car rental service.",
+    CarRentGithub:"https://github.com/VenkataRathnam3523/CarRent",
+    CarReantWebsite:"https://github.com/VenkataRathnam3523/CarRent",
 
-    CRUDoperationDesc:"CRUD operations are essential for managing data within applications and databases. Create involves adding new data entries, Read focuses on retrieving and displaying existing information, Update allows for modifying or changing data, and Delete removes data that is no longer needed. Together, these operations enable the full lifecycle management of data, ensuring it can be effectively maintained and utilized.",
-    CRUDoperationGithub:"https://github.com/VenkataRathnam3523/CRUDproject",
-    CRUDoperationWebsite:"https://venkatarathnam3523.github.io/CRUDproject/",
+    ChatAppDesc:"The ChatApp repository is a Java-based chat application. It enables real-time messaging between users and provides core chat functionalities like sending and receiving messages. This project is useful for learning basic Java programming, especially for building applications that require user interaction through a chat interface.",
+    ChatAppGithub:"https://github.com/VenkataRathnam3523/ChatApp",
+    ChatAppWebsite:"https://github.com/VenkataRathnam3523/ChatApp",
+
+    MovieRecommendDesc:"The Movie Recommendation app suggests personalized movie recommendations using data from an external movie API. It displays key movie details like title, poster, and description based on user preferences. You can explore the app here.",
+    MovieRecommendGithub:"https://github.com/VenkataRathnam3523/Movie-Recommendation",
+    MovieRecommendWebsite:"https://venkatarathnam3523.github.io/Movie-Recommendation/",
+
+    WeatherDesc:"The Weather App is a web application that displays real-time weather updates by fetching data from an external API. It shows key weather details like temperature and conditions based on user input. You can explore it here",
+    WeatherGithub:"https://github.com/VenkataRathnam3523/Weather-App",
+    WeatherWebsite:"https://venkatarathnam3523.github.io/Weather-App/",
+
 
     PortfolioDesc:"A dynamic portfolio showcasing diverse skills and accomplishments, including design, development, and creative problem-solving. Highlights innovative projects, strong work ethic, and dedication to continuous growth in various fields.",
     PortfolioGithub:"https://github.com/VenkataRathnam3523/portfolio",
